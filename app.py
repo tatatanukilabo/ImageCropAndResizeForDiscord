@@ -97,7 +97,7 @@ def main():
             delete_files()
 
     url = "https://x.com/ta_ta_ta_nu_ki"
-    st.write("Copyright © 2024 [たたたぬき](%s) #たぬきツール" % url)
+    st.write("Copyright © 2025 [たたたぬき](%s) #たぬきツール" % url)
 
 if __name__ == '__main__':
     main()
